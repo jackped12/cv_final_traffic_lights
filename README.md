@@ -1,1 +1,1 @@
-# cv_final_traffic_lights
+A project for school in which I use OpenCV and Tensorflow to train a CNN model for detecting traffic light colours, and then predicting on a different set of images to label them with the colour detected.
